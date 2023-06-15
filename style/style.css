@@ -2,9 +2,25 @@
  max-width: 100%;
  height: 80px;
  background-color: #000;
+ display: flex;
+ align-items: center;
+ 
 }
 
 .header img{
     width: 240px;
-    margin: 20px 8px;
+    margin: 20px 10px;
+}
+
+.menu{
+    margin-left: 1150px;
+}
+
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: sans-serif;
+    
 }
