@@ -171,6 +171,17 @@ margin-top: 40px;
     display: flex;
    
 }
+.carted{
+    display: flex;
+
+}
+.head-text{
+    background-color: #e08d8dc8;
+    margin-top: -30px;
+    padding: 10px;
+    color: #fff;
+}
+
 
 
 
