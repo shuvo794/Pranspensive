@@ -148,4 +148,13 @@ margin-top: 40px;
     text-align: center;
     margin-top: -20px;
 }
+.port{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sigel-port{
+    margin: 10px;
+}
 
